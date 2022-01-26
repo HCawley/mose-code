@@ -1,0 +1,32 @@
+* {
+    margin: 5px;
+}
+
+.translator {
+    display: flex;
+    flex-direction: column;
+    max-width: 20%;
+    margin: auto;
+    border: 5px solid #696969;
+    border-radius: 2px;
+    background-color: #F0FFF0;
+}
+
+h4 {
+    font-family: sans-serif;
+    font-size: small;
+}
+
+.translatorButton {
+    max-width: 50%;
+    margin: auto;
+}
+
+.display {
+    display: inline;
+    border: solid #696969 1px;
+    border-radius: 2px;
+    min-height: 20px;
+    background-color: white;
+}
+

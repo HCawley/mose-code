@@ -1,0 +1,24 @@
+{
+    "name": "morse-code",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/HCawley/morse-code.git"
+    },
+    "keywords": [],
+    "author": "Helen Cawley",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/HCawley/morse-code/issues"
+    },
+    "homepage": "https://github.com/HCawley/morse-code#readme",
+    "dependencies": {
+        "@babel/plugin-transform-modules-commonjs": "^7.16.8",
+        "jest": "^27.4.7"
+    }
+}
